@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\loginmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\beveragemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\beveragemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\fishmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\fishmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\vegetablesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\vegetablesmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\milkmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\milkmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\meatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\meatmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\meat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\vegetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\vegetables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|c:\\users\\antonpavliuchyk\\documents\\course\\store inventory system\\store inventory system\\icountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D34C889A-B67A-43BF-B9E2-CBFBDE2BE91B}|Store Inventory System\\Store Inventory System.csproj|solutionrelative:store inventory system\\icountable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FishMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\FishMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\FishMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\FishMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\FishMenu.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:44:33.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeverageMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\BeverageMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\BeverageMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\BeverageMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\BeverageMenu.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:24:43.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MainMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:18:52.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Program.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Program.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Program.cs",
+              "RelativeToolTip": "Store Inventory System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:20:11.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Store.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store.cs",
+              "RelativeToolTip": "Store Inventory System\\Store.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T12:56:27.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\User.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\User.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\User.cs",
+              "RelativeToolTip": "Store Inventory System\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:12:52.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\LoginMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\LoginMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\LoginMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\LoginMenu.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T15:14:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Milk.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Milk.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Milk.cs",
+              "RelativeToolTip": "Store Inventory System\\Milk.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:50:51.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VegetablesMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\VegetablesMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\VegetablesMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\VegetablesMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\VegetablesMenu.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwF0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:13:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MilkMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MilkMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\MilkMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MilkMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\MilkMenu.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:31:02.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeatMenu.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MeatMenu.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\MeatMenu.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\MeatMenu.cs",
+              "RelativeToolTip": "Store Inventory System\\MeatMenu.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T16:38:23.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Meat.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Meat.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Meat.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Meat.cs",
+              "RelativeToolTip": "Store Inventory System\\Meat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:51:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Beverage.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Beverage.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Beverage.cs",
+              "RelativeToolTip": "Store Inventory System\\Beverage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:22:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Fish.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Fish.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Fish.cs",
+              "RelativeToolTip": "Store Inventory System\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:52:43.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vegetables.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Vegetables.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Vegetables.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Vegetables.cs",
+              "RelativeToolTip": "Store Inventory System\\Vegetables.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T13:58:57.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICountable.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\ICountable.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\ICountable.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\ICountable.cs",
+              "RelativeToolTip": "Store Inventory System\\ICountable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T11:24:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Product.cs",
+              "RelativeDocumentMoniker": "Store Inventory System\\Product.cs",
+              "ToolTip": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Product.cs",
+              "RelativeToolTip": "Store Inventory System\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T10:20:51.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

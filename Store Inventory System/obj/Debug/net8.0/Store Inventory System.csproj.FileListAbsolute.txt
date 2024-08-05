@@ -1,0 +1,15 @@
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\bin\Debug\net8.0\Store Inventory System.exe
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\bin\Debug\net8.0\Store Inventory System.deps.json
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\bin\Debug\net8.0\Store Inventory System.runtimeconfig.json
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\bin\Debug\net8.0\Store Inventory System.dll
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\bin\Debug\net8.0\Store Inventory System.pdb
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.AssemblyInfoInputs.cache
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.AssemblyInfo.cs
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.csproj.CoreCompileInputs.cache
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.sourcelink.json
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.dll
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\refint\Store Inventory System.dll
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.pdb
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\Store Inventory System.genruntimeconfig.cache
+C:\Users\AntonPavliuchyk\Documents\Course\Store Inventory System\Store Inventory System\obj\Debug\net8.0\ref\Store Inventory System.dll
