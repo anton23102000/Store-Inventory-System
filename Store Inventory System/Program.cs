@@ -1,15 +1,16 @@
-﻿using Store_Inventory_System;
+﻿using Store_Inventory_System.Menues;
+using Store_Inventory_System.Models;
+
+namespace Store_Inventory_System;
+
 public static class Program
 {
     public static void Main()
     {
+        var store = new Store();
         var users = new List<User>();
-        var beverage = new List<Beverage>();
-        var vegetables = new List<Vegetables>();
-        var milk = new List<Milk>();
-        var meat = new List<Meat>();
-        var fish = new List<Fish>();
-        var manageStore = new LoginMenu(users);
+        
+        var manageStore = new LoginMenu(store, users);
         manageStore.ShowMenu();
     }
 }

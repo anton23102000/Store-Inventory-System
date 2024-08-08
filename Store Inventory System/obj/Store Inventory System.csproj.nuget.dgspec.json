@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store Inventory System.csproj": {}
+    "/Users/okutafin/Projects/hillel_automatio_course/ready_homeworks/anton_pavliuchok/Store-Inventory-System/Store Inventory System/Store Inventory System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store Inventory System.csproj": {
+    "/Users/okutafin/Projects/hillel_automatio_course/ready_homeworks/anton_pavliuchok/Store-Inventory-System/Store Inventory System/Store Inventory System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store Inventory System.csproj",
+        "projectUniqueName": "/Users/okutafin/Projects/hillel_automatio_course/ready_homeworks/anton_pavliuchok/Store-Inventory-System/Store Inventory System/Store Inventory System.csproj",
         "projectName": "Store Inventory System",
-        "projectPath": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\Store Inventory System.csproj",
-        "packagesPath": "C:\\Users\\AntonPavliuchyk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AntonPavliuchyk\\Documents\\Course\\Store Inventory System\\Store Inventory System\\obj\\",
+        "projectPath": "/Users/okutafin/Projects/hillel_automatio_course/ready_homeworks/anton_pavliuchok/Store-Inventory-System/Store Inventory System/Store Inventory System.csproj",
+        "packagesPath": "/Users/okutafin/.nuget/packages/",
+        "outputPath": "/Users/okutafin/Projects/hillel_automatio_course/ready_homeworks/anton_pavliuchok/Store-Inventory-System/Store Inventory System/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AntonPavliuchyk\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/okutafin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
